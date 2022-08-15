@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  GetLocation
 //
-//  Created by Nhat on 20/05/2022.
+//  Created by Tim 20/05/2019.
 //
 
 import UIKit

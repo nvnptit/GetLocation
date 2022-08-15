@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		79638B6A283781790003CE8E /* ImageCaptureViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79638B69283781790003CE8E /* ImageCaptureViewController.swift */; };
+		79638B6C283782600003CE8E /* ImageView.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79638B6B283782600003CE8E /* ImageView.storyboard */; };
 		79ECF07B2837488B00B20987 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79ECF07A2837488B00B20987 /* AppDelegate.swift */; };
 		79ECF07D2837488B00B20987 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79ECF07C2837488B00B20987 /* SceneDelegate.swift */; };
 		79ECF07F2837488B00B20987 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79ECF07E2837488B00B20987 /* ViewController.swift */; };
@@ -17,6 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		79638B69283781790003CE8E /* ImageCaptureViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCaptureViewController.swift; sourceTree = "<group>"; };
+		79638B6B283782600003CE8E /* ImageView.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ImageView.storyboard; sourceTree = "<group>"; };
 		79ECF0772837488B00B20987 /* GetLocation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GetLocation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		79ECF07A2837488B00B20987 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		79ECF07C2837488B00B20987 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +70,8 @@
 				79ECF0882837488C00B20987 /* LaunchScreen.storyboard */,
 				79ECF08B2837488C00B20987 /* Info.plist */,
 				79ECF0832837488B00B20987 /* TestFolder */,
+				79638B69283781790003CE8E /* ImageCaptureViewController.swift */,
+				79638B6B283782600003CE8E /* ImageView.storyboard */,
 			);
 			path = GetLocation;
 			sourceTree = "<group>";
@@ -137,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				79ECF08A2837488C00B20987 /* LaunchScreen.storyboard in Resources */,
+				79638B6C283782600003CE8E /* ImageView.storyboard in Resources */,
 				79ECF0872837488C00B20987 /* Assets.xcassets in Resources */,
 				79ECF0822837488B00B20987 /* Main.storyboard in Resources */,
 			);
@@ -153,6 +160,7 @@
 				79ECF0852837488B00B20987 /* TestFile.swift in Sources */,
 				79ECF07B2837488B00B20987 /* AppDelegate.swift in Sources */,
 				79ECF07D2837488B00B20987 /* SceneDelegate.swift in Sources */,
+				79638B6A283781790003CE8E /* ImageCaptureViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

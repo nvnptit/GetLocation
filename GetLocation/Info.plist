@@ -21,7 +21,13 @@
 			</array>
 		</dict>
 	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string> $(PRODUCT_NAME) media use</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string> $(PRODUCT_NAME) photo use</string>
+	<key>NSCameraUsageDescription</key>
+	<string>$(PRODUCT_NAME) camera use</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Please allow to use GPS this app</string>
+	<string>This app will use GPS</string>
 </dict>
 </plist>
